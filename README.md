@@ -11,4 +11,3 @@ sudo docker run -it --rm \
   --email VORE_EMAIL \
   -d VOTRE_DOMAINE
 ```
-# jenkins-chapitre7-jenkins-controller
